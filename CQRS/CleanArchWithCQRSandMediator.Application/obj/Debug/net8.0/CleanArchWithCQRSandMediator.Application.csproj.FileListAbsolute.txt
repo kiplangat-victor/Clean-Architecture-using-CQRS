@@ -1,0 +1,15 @@
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/bin/Debug/net8.0/CleanArchWithCQRSandMediator.Application.deps.json
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/bin/Debug/net8.0/CleanArchWithCQRSandMediator.Application.dll
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/bin/Debug/net8.0/CleanArchWithCQRSandMediator.Application.pdb
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/bin/Debug/net8.0/CleanArchWithCQRSandMediator.Domain.dll
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/bin/Debug/net8.0/CleanArchWithCQRSandMediator.Domain.pdb
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/obj/Debug/net8.0/CleanArchWithCQRSandMediator.Application.csproj.AssemblyReference.cache
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/obj/Debug/net8.0/CleanArchWithCQRSandMediator.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/obj/Debug/net8.0/CleanArchWithCQRSandMediator.Application.AssemblyInfoInputs.cache
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/obj/Debug/net8.0/CleanArchWithCQRSandMediator.Application.AssemblyInfo.cs
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/obj/Debug/net8.0/CleanArchWithCQRSandMediator.Application.csproj.CoreCompileInputs.cache
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/obj/Debug/net8.0/CleanArchWithCQRSandMediator.Application.csproj.CopyComplete
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/obj/Debug/net8.0/CleanArchWithCQRSandMediator.Application.dll
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/obj/Debug/net8.0/refint/CleanArchWithCQRSandMediator.Application.dll
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/obj/Debug/net8.0/CleanArchWithCQRSandMediator.Application.pdb
+/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Application/obj/Debug/net8.0/ref/CleanArchWithCQRSandMediator.Application.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tusg3Y3/vRRJnaFNYnnXNTSwJUNvI5GQ93ZCEJvEQfVcTKOMeg1tVZJwjhd+cKb5eRhAvOI5Ni4+wid117m+xw==",
+  "success": true,
+  "projectFilePath": "/home/kiplangat/Documents/run_devops/CQRS/CleanArchWithCQRSandMediator.Domain/CleanArchWithCQRSandMediator.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/kiplangat/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
+    "/home/kiplangat/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/kiplangat/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
